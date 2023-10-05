@@ -4,7 +4,8 @@
 
 FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints. This project serves as a template for starting your FastAPI-based projects.
 
-
+## API Documentations
+``` http://127.0.0.1:8000/docs  ```
 
 ## Getting Started
 
